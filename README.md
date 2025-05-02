@@ -26,7 +26,7 @@ This repository contains a Power BI dashboard that offers a comprehensive analys
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](preview/prev.png)
+![Dashboard Preview](screenshot/proj_5.png)
 
 ## 📅 Live Dashboard Link
 [Click here to view the dashboard](https://app.powerbi.com/view?r=YOUR_DASHBOARD_LINK)
